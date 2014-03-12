@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh_CN</string>
+	<key>CFBundleDisplayName</key>
+	<string>宝龙广场</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>APP(120-120)</string>
+				<string>APP(57-57).png</string>
+				<string>APP(114-114).png</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.powerlong.plocc</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.50</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>plocc</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>tencent</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>tencent100525863</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>10</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>Partner</key>
+	<string>2088011526990650</string>
+	<key>RSA private key</key>
+	<string>MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAK3EdxhWDOB4zefm6rmUDjaD6OogFP/AE0AA/QCiba0tyj7Urp2iMhKfWR7GVVVoO6A0wb8amzE5SKWIRM1MlIdW/SsNUN5llSMmCWW+VHrSq60tEROMyq9aoO4dCtzpqL6LF/omy+J04nBKHXhYPjISQompFQrBIuYm9KIjzdOVAgMBAAECgYBNTCTyRW0K+ZIWw6jMjqjX5UvZwhW1QtsNUKM7AgYp0EG0O2XFp14A3LOHNhDFok1L0cwR16MLfYDsaba5YIR9B+ghFbAJYpwSwtZnYBtV0LCadyLIpt1aCphgxsBi+u7abDHBXXuO61f7n8HaLxy8L0fE80U4ktE7nB0lJefNTQJBAN9ZxTrE5s0W9o18F6m1ToM6oIKgotYu5ADZTBWtOqMKVzJgq+h1P3S7Dtnv1pNFdZl59nnEXXjoQHknaP1oSpMCQQDHKzDxfacwVZe+3zb2u6ADDvzhHjAoFrcXwjYtHW19KR47vr9KlIYDuEoJ1ljDKdRiDtls/kHjFFkurXNKTbo3AkAmIBnFrWTEb34Iqr0TUAql5fUON0N0ki6DYpRVQuu2dwZpaA0QMitxzph7ZTBYlUu8tg/3uyhFgke3Jp4KW6oXAkACrjAgb+J6IgzCwtpIg8npgKAin3dicrvQFAsKnGTG1HDVuQF2DX2oOyiz7TCQn9V95FlEwD8+wR1aJXdxvo4NAkEA2inut0vz4KNgNCA1wjRcRAJF1tuvWdLJBUuOIZwmsrqbF6KwV/ZsQJZyga22z5Yr6YFp4DWWyWQQS+KOC7/8lA==</string>
+	<key>RSA public key</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCdgfAC6MzKSBDlrvWr1o/BvkZv+12k2n0DAn8 3AVKNGuvSn1RCul5s+PYRCxVENZw6Zf+3IGnIyaJHfuN/nZIrFSyq+6ZX/g0EM3walzJHlY931Qy Pp3jR21afv3roZp5LNLH835v689Pu/dYUrcVmmRZ+ifhHGHN3Ds7o8PsXQIDAQAB</string>
+	<key>Seller</key>
+	<string>2088011526990650</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
